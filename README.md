@@ -7,7 +7,7 @@ Additionally, both Unit Tests and Android Instrumentation Tests are being implem
 
 | Temperature Screen                                                              |
 |---------------------------------------------------------------------------------|
-| ![login](https://github.com/luismikg/HSBCTest/blob/master/images/hsbc_test.gif) |
+| ![login](https://github.com/luismikg/Temperature_Random/blob/master/images/hsbc_test.gif) |
 
 ---
 
@@ -23,7 +23,7 @@ Designed for Phones and NOT for Tablets
 	- Navigate to the directory where you want to clone the repository.
 	- Run the following command:
 	  ```
-      git clone URL_of_your_repository
+      git clone https://github.com/luismikg/Temperature_Random.git
       ```
 
 ## Opening the Project in Android Studio:
